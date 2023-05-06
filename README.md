@@ -32,7 +32,9 @@ in the field.
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-           
+
+<br>
+
 ---
 
 ## 🔭 I’m currently working on
@@ -47,11 +49,11 @@ in the field.
 ---
 
 ## 🗺 Links
-<img align="left" alt="Itch.io" width="30px" style="padding-right:10px; filter:invert();" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/itch-io.svg" />
+<img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://static.itch.io/images/itchio-textless-white.svg" />
 
 [Itch.io](https://erulathra.itch.io/)
 
-<img align="left" alt="Itch.io" width="30px" style="padding-right:10px; filter:invert();" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin-in.svg" />
+<img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 
 [LinkedIn](https://www.linkedin.com/in/szymon-%C5%9Bwi%C4%99drych-01733a243/)
 
