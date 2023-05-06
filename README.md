@@ -38,13 +38,13 @@ in the field.
 ---
 
 ## 🔭 I’m currently working on
-[<img alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="400"/>](https://erulathra.itch.io/the-timeman)
+[<img align="center" alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="400"/>](https://erulathra.itch.io/the-timeman)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark)](https://github.com/Erulathra/doom_ai)
 
 
-<img alt="Inpostors" src="res/Inpostors.png" title="Inpostors" width="400"/>
+<img align="center" alt="Inpostors" src="res/Inpostors.png" title="Inpostors" width="400"/>
 
 ---
 
