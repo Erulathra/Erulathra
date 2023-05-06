@@ -37,10 +37,10 @@ in the field.
 ---
 
 ## 🔭 I’m currently working on
-[<img align="left" alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="400"/>](https://erulathra.itch.io/the-timeman)
-[<img aligh="left" alt="doom_ai" src="https://github-readme-stats.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark" width="400"/>](https://github.com/Erulathra/doom_ai)
+[<img align="left" alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="410"/>](https://erulathra.itch.io/the-timeman)
+[<img aligh="left" alt="doom_ai" src="https://github-readme-stats.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark" width="410"/>](https://github.com/Erulathra/doom_ai)
 
-<img align="center" alt="Inpostors" src="res/Inpostors.png" title="Inpostors" width="400"/>
+<img align="center" alt="Inpostors" src="res/Inpostors.png" title="Inpostors" width="410"/>
 
 ---
 
