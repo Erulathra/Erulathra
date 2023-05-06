@@ -56,7 +56,6 @@ in the field.
 ---
 
 ## 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=erulathra&show_icons=true&theme=onedark)
+[<img aligh="left" alt="doom_ai" src="https://github-readme-stats.vercel.app/api?username=erulathra&show_icons=true&theme=onedark" width="820"/>](https://github.com/Erulathra)
 
 ---
