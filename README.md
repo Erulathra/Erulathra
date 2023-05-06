@@ -39,17 +39,20 @@ in the field.
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
            
-<br> <br>
+---
 
-### 🔭 I’m currently working on
-[![Available on itch.io](res/Timeman.png)](https://erulathra.itch.io/the-timeman)
+## 🔭 I’m currently working on
+[<img alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="400"/>](https://erulathra.itch.io/the-timeman)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark)](https://github.com/Erulathra/doom_ai)
 
-![Inpostors](res/Inpostors.png)
 
+<img alt="Inpostors" src="res/Inpostors.png" title="Inpostors" width="400"/>
 
-### 🗺 Links
+---
+
+## 🗺 Links
 <img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/itch-io.svg" />
 
 [Itch.io](https://erulathra.itch.io/)
@@ -58,7 +61,10 @@ in the field.
 
 [LinkedIn](https://www.linkedin.com/in/szymon-%C5%9Bwi%C4%99drych-01733a243/)
 
+---
 
-### 📊 Stats
+## 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=erulathra&show_icons=true&theme=onedark)
+
+---
