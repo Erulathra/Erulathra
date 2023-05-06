@@ -4,13 +4,7 @@
 
 <div style="text-align: justify">
 I am a student of computer science at Łódź University of Technology, specializing
-in video games.
-</div>
-
-<br>
-
-<div style="text-align: justify">
-As a hobbyist, I create games in Unreal Engine and OpenGL.
+in video games. As a hobbyist, I create games in Unreal Engine and OpenGL.
 Additionally, I have a strong interest in artificial intelligence and rendering.
 My passion for gaming and technology motivates me to learn and explore new possibilities
 in the field.
@@ -53,11 +47,11 @@ in the field.
 ---
 
 ## 🗺 Links
-<img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/itch-io.svg" />
+<img align="left" alt="Itch.io" width="30px" style="padding-right:10px; filter:invert();" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/itch-io.svg" />
 
 [Itch.io](https://erulathra.itch.io/)
 
-<img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin-in.svg" />
+<img align="left" alt="Itch.io" width="30px" style="padding-right:10px; filter:invert();" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin-in.svg" />
 
 [LinkedIn](https://www.linkedin.com/in/szymon-%C5%9Bwi%C4%99drych-01733a243/)
 
