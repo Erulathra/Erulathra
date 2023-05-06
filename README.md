@@ -42,10 +42,12 @@ in the field.
 <br> <br>
 
 ### 🔭 I’m currently working on
-<iframe src="https://itch.io/embed/2056287?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=327345&amp;border_color=363636" width="552" height="167" frameborder="0"><a href="https://erulathra.itch.io/the-timeman">The Timeman by Szymon Świędrych, bortok123</a></iframe>
+[![Available on itch.io](res/Timeman.png)](https://erulathra.itch.io/the-timeman)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark)](https://github.com/Erulathra/doom_ai)
-- Inpostors (ZTGK, WIP)
+
+![Inpostors](res/Inpostors.png)
+
 
 ### 🗺 Links
 <img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/itch-io.svg" />
