@@ -8,6 +8,9 @@ in video games. As a hobbyist, I create games in Unreal Engine and OpenGL.
 Additionally, I have a strong interest in artificial intelligence and rendering.
 My passion for gaming and technology motivates me to learn and explore new possibilities
 in the field.
+
+
+I :heart: Linux and FOSS!
 </div>
 
 ---
