@@ -41,8 +41,8 @@ I :heart: Linux and FOSS!
 
 ## 🔭 I’m currently working on
 [<img align="left" alt="Available on itch.io" src="res/Timeman.png" title="Available on itch.io" width="410"/>](https://erulathra.itch.io/the-timeman)
-[<img aligh="left" alt="doom_ai" src="https://github-readme-stats-z98e-xymvbogni-erulathra.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark" width="410"/>](https://github.com/Erulathra/doom_ai)
-[<img aligh="left" alt="Project: Inpostors" src="https://github-readme-stats-z98e-xymvbogni-erulathra.vercel.app/api/pin/?username=Memory-Leak-Games&repo=Project-InPostors&theme=onedark" width="410"/>](https://github.com/Memory-Leak-Games/Project-InPostors)
+[<img aligh="left" alt="doom_ai" src="https://github-readme-stats-z98e-git-master-erulathra.vercel.app/api/pin/?username=Erulathra&repo=doom_ai&theme=onedark" width="410"/>](https://github.com/Erulathra/doom_ai)
+[<img aligh="left" alt="Project: Inpostors" src="https://github-readme-stats-z98e-git-master-erulathra.vercel.app/api/pin/?username=Memory-Leak-Games&repo=Project-InPostors&theme=onedark" width="410"/>](https://github.com/Memory-Leak-Games/Project-InPostors)
 
 ---
 
@@ -58,6 +58,6 @@ I :heart: Linux and FOSS!
 ---
 
 ## 📊 Stats
-[<img aligh="left" alt="Stats" src="https://github-readme-stats-z98e-xymvbogni-erulathra.vercel.app/api?username=erulathra&show_icons=true&theme=onedark" width="820"/>](https://github.com/Erulathra)
+[<img aligh="left" alt="Stats" src="https://github-readme-stats-z98e-git-master-erulathra.vercel.app/api?username=erulathra&show_icons=true&theme=onedark" width="820"/>](https://github.com/Erulathra)
 
 ---
