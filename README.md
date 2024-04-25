@@ -3,8 +3,8 @@
 ---
 
 <div style="text-align: justify">
-I am a student of computer science at Łódź University of Technology, specializing
-in video games. As a hobbyist, I create games in Unreal Engine and OpenGL.
+I am a student of computer science at Łódź University of Technology and Junior Programmer at Teyon.
+As a hobbyist, I create games in Unreal Engine and OpenGL.
 Additionally, I have a strong interest in artificial intelligence and rendering.
 My passion for gaming and technology motivates me to learn and explore new possibilities
 in the field.
