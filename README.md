@@ -4,8 +4,8 @@
 
 <div style="text-align: justify">
 I am a student of computer science at Łódź University of Technology and a regular Programmer at Teyon.
-As a hobbyist, I create games using Unreal Engine and OpenGL.
-Additionally, I have a strong interest in artificial intelligence and rendering.
+As a hobbyist, I create projects using Unreal Engine, Vulkan and DirectX 12.
+Additionally, I have a strong interest in rendering and tech art.
 My passion for gaming and technology motivates me to learn and explore new possibilities.
 
 
