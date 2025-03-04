@@ -3,11 +3,10 @@
 ---
 
 <div style="text-align: justify">
-I am a student of computer science at Łódź University of Technology and Junior Programmer at Teyon.
-As a hobbyist, I create games in Unreal Engine and OpenGL.
+I am a student of computer science at Łódź University of Technology and a regular Programmer at Teyon.
+As a hobbyist, I create games using Unreal Engine and OpenGL.
 Additionally, I have a strong interest in artificial intelligence and rendering.
-My passion for gaming and technology motivates me to learn and explore new possibilities
-in the field.
+My passion for gaming and technology motivates me to learn and explore new possibilities.
 
 
 I :heart: Linux and FOSS!
@@ -48,6 +47,10 @@ I :heart: Linux and FOSS!
 <img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 
 [LinkedIn](https://www.linkedin.com/in/szymon-%C5%9Bwi%C4%99drych-01733a243/)
+
+<img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://store.cloudflare.steamstatic.com/public/images/v6/logo_steam_footer.png" />
+
+[Wishlist CarGO! on Steam!](https://store.steampowered.com/app/1272780/CarGo/)
 
 ---
 
