@@ -32,9 +32,11 @@ I :heart: Linux and FOSS!
 
 ## 🗺 Links
 <img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://static.itch.io/images/itchio-textless-white.svg" />
+
 [Itch.io](https://erulathra.itch.io/)
 
 <img align="left" alt="Itch.io" width="30px" style="padding-right:10px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+
 [LinkedIn](https://www.linkedin.com/in/szymon-%C5%9Bwi%C4%99drych-01733a243/)
 
 ---
