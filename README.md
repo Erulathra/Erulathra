@@ -33,6 +33,10 @@ I :heart: Linux and FOSS!
 
 🚚 [AIPost](https://github.com/Memory-Leak-Games/Project-InPostors)
 
+🍺 [Öl](https://erulathra.itch.io/ol)
+
+⛵ [Suround Me](https://erulathra.itch.io/surround-me)
+
 ## 👨‍🎓 My reasearch
 * [Rewards shaping in the reinforcement learning process using the method of
 rewarding rare events on the example of the FPS game environment](https://github.com/Erulathra/doom_ai)
